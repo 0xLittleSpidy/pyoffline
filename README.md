@@ -96,4 +96,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ---
 
 Created with ❤️ for Pentesters working in restricted environments
-```
